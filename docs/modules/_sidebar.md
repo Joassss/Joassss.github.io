@@ -1,0 +1,12 @@
+* [Home](/ "QuaBot | Wiki")
+* [Commands](commands/fun.md)
+* Modules & Setup
+    * [Afk](modules/afk.md "QuaBot | Afk")
+    * [Audits](modules/audits.md "QuaBot | Audits")
+    * [Tickets](modules/tickets.md "QuaBot | Tickets")
+    * [Suggestions & Reports](modules/suggestions-reports.md "QuaBot | Suggestions & Reports")
+    * [Reaction Roles](modules/reactions.md "QuaBot | Reaction Roles")
+    * [Welcome](modules/welcome.md "QuaBot | Welcome")
+* [Enable Developer Mode](/enable-dev-mode "QuaBot | Developer Mode")
+* [Database](/database.md "QuaBot | Database")
+* [Support Discord](https://discord.quabot.net)

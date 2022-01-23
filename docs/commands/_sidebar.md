@@ -1,0 +1,13 @@
+* [Home](/ "QuaBot | Wiki")
+* Commands
+    * [Fun Commands](commands/fun.md "QuaBot | Fun")
+    * [Info Commands](commands/info.md "QuaBot | Info")
+    * [Music Commands](commands/music.md "QuaBot | Music")
+    * [Management Commands](commands/management.md "QuaBot | Management")
+    * [Moderation Commands](commands/moderation.md "QuaBot | Moderation")
+    * [Misc Commands](commands/misc.md "QuaBot | Misc")
+    * [Support Commands](commands/support.md "QuaBot | Support")
+* [Modules & Setup](modules/afk)
+* [Enable Developer Mode](/enable-dev-mode "QuaBot | Developer Mode")
+* [Database](/database.md "QuaBot | Database")
+* [Support Discord](https://discord.quabot.net)
